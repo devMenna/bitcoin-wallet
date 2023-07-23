@@ -1,0 +1,21 @@
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1.7rem;
+  margin-top: 1.9rem;
+  width: 100%;
+}
+
+.higher-container {
+  color: #9a9bb0;
+  font-size: 0.8rem;
+  display: flex;
+  margin-right: 0.4rem;
+  opacity: 0.9;
+}
+.lower-container {
+  color: #9a9bb0;
+  font-size: 0.8rem;
+  display: flex;
+  margin-left: 1rem;
+}

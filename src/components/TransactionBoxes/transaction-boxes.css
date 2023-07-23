@@ -1,0 +1,24 @@
+.actions-container {
+  display: flex;
+  margin-top: 1rem;
+  justify-content: space-evenly;
+}
+
+.inner-box {
+  display: flex;
+  flex-direction: column;
+  padding-top: 1.2rem;
+  align-items: center;
+  background-color: #ffffff;
+  border: 0.1rem solid transparent;
+  border-radius: 10%;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  width: 9.5rem;
+  color: #4c5968;
+  font-weight: bold;
+}
+
+.dollar-icon {
+  width: 25%;
+  height: 25%;
+}
